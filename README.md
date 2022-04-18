@@ -10,6 +10,6 @@
         <li>countValidQueens( n );</li>
     </ol>
 
-<p>Open index.html in your browser, open the inspector and you'll be able to test the functions in the console. Happy enjoy. :)</p>
+<p>Open index.html in your browser, open the inspector and you'll be able to test the functions in the console.</p>
 
 Exercices realised during the French learning cursus [The Hacking Project](https://www.thehackingproject.org).
